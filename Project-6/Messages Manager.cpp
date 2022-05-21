@@ -7,7 +7,7 @@
 //  Date             Programmer            Change ID     Description
 //  03/16/21         Jonathan Xin          1000          Initial implementation
 //-----------------------------------------------------------------------------
-//
+
 #include <iostream>
 #include <string>
 #include <iomanip>
